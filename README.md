@@ -66,6 +66,8 @@ __Things that I am currently working on:__
 - Developing an interactive portfolio inspired by Steven Mengin’s Awwwards-winning site using GSAP Timeline and ScrollTrigger.
 
 ##
-<br/>
 
-![Snake animation](https://github.com/sj0605-datasci/sj0605-datasci/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/devanshu052000/devanshu052000/blob/output/github-contribution-grid-snake.svg)
+
+##
+
