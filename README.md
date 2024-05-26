@@ -19,13 +19,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://newgendigital.com/" target="blank">NewGen DigitalWorks Pvt. Ltd.</a>
+- 🔭 I’m currently working in <a href="https://www.tooljet.com/" target="blank">ToolJet</a>
 
-- 🌱 I’m currently working as a Full-Stack Web Development Intern.
+- 🌱 I’m currently working as a Software Engineer Intern.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Shopify & TensorFlow.
+- 🌱 I’m currently learning NextJS and ElasticSearch.
 
 - 📝 I sometimes write articles on <a href="https://www.linkedin.com/in/devanshu-rastogi/" target="blank">LinkedIn</a>
 
