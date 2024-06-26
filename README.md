@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **devanshu.rastogi05@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1f9CCOxjKqzHvTSoMCGggJCjvbdaDh-c5/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mI-qRuQxKLKFp5nMWdL7nOCnQ36WcO_Y/view?usp=sharing" target="blank">Resume</a>
 ##
 <br/>
 
