@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working in <a href="https://www.tooljet.com/" target="blank">ToolJet</a>
 
-- 🌱 I’m currently working as a Software Engineer Intern.
+- 🌱 I’m currently working as a Software Engineer.
 
 - 🤝 I’m available for freelancing.
 
